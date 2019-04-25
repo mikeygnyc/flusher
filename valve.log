@@ -1,0 +1,68 @@
+2019-04-22T00:24:41.842Z info: 	Stopping scheduler
+2019-04-22T00:24:41.845Z info: 	Starting scheduler
+2019-04-22T00:24:41.858Z info: 	Valve control listening on port 3000
+2019-04-22T00:24:41.859Z error: 	Valve control not ready! %s
+2019-04-22T00:25:38.425Z info: 	Stopping scheduler
+2019-04-22T00:25:38.428Z info: 	Starting scheduler
+2019-04-22T00:25:38.441Z info: 	Valve control listening on port 3000
+2019-04-22T00:25:38.443Z error: 	Valve control not ready! {"errno":-2,"code":"ENOENT","syscall":"open","path":"/proc/cpuinfo"}
+2019-04-22T00:25:41.906Z info: 	Stopping scheduler
+2019-04-22T00:25:41.907Z info: 	Stopping scheduler
+2019-04-22T00:25:41.908Z info: 	Starting scheduler
+2019-04-22T00:25:41.908Z info: 	Updated schedule: {"days":["monday","wednesday","friday","tuesday","thursday","saturday","sunday"],"flush_time":"04:05","flush_duration":10}
+2019-04-22T01:05:09.710Z info: 	Stopping scheduler
+2019-04-22T01:05:09.712Z info: 	Starting scheduler
+2019-04-22T01:05:09.728Z info: 	Valve control listening on port 3000
+2019-04-22T01:05:09.730Z error: 	Valve control not ready! {"errno":-2,"code":"ENOENT","syscall":"open","path":"/proc/cpuinfo"}
+2019-04-22T01:05:19.971Z info: 	Stopping scheduler
+2019-04-22T01:05:19.972Z info: 	Stopping scheduler
+2019-04-22T01:05:19.972Z info: 	Starting scheduler
+2019-04-22T01:05:19.972Z info: 	Updated schedule: {"days":["monday","wednesday","friday","tuesday","thursday","saturday","sunday"],"flush_time":"21:04","flush_duration":10}
+2019-04-22T01:09:26.155Z info: 	Stopping scheduler
+2019-04-22T01:09:26.161Z info: 	Starting scheduler
+2019-04-22T01:09:26.183Z info: 	Valve control listening on port 3000
+2019-04-22T01:09:26.185Z error: 	Valve control not ready! {"errno":-2,"code":"ENOENT","syscall":"open","path":"/proc/cpuinfo"}
+2019-04-22T01:09:59.639Z info: 	Stopping scheduler
+2019-04-22T01:10:01.575Z info: 	Stopping scheduler
+2019-04-22T01:10:01.576Z info: 	Starting scheduler
+2019-04-22T01:10:01.576Z info: 	Updated schedule: {"days":["monday","wednesday","friday","tuesday","thursday","saturday","sunday"],"flush_time":"04:00","flush_duration":10}
+2019-04-22T01:12:24.215Z info: 	Stopping scheduler
+2019-04-22T01:12:26.455Z info: 	Stopping scheduler
+2019-04-22T01:12:26.455Z info: 	Starting scheduler
+2019-04-22T01:12:26.456Z info: 	Updated schedule: {"days":["monday","wednesday","friday","tuesday","thursday","saturday","sunday"],"flush_time":"21:13","flush_duration":10}
+2019-04-22T01:23:00.783Z info: 	Stopping scheduler
+2019-04-22T01:23:00.786Z info: 	Starting scheduler
+2019-04-22T01:23:00.805Z info: 	Valve control listening on port 3000
+2019-04-22T01:23:00.807Z error: 	Valve control not ready! {"errno":-2,"code":"ENOENT","syscall":"open","path":"/proc/cpuinfo"}
+2019-04-22T01:23:12.343Z info: 	Stopping scheduler
+2019-04-22T01:23:12.345Z info: 	Stopping scheduler
+2019-04-22T01:23:12.345Z info: 	Starting scheduler
+2019-04-22T01:23:12.346Z info: 	Updated schedule: {"days":["monday","wednesday","friday","tuesday","thursday","saturday","sunday"],"flush_time":"04:00","flush_duration":10}
+2019-04-22T01:23:17.967Z info: 	Stopping scheduler
+2019-04-22T01:23:17.968Z info: 	Stopping scheduler
+2019-04-22T01:23:17.968Z info: 	Starting scheduler
+2019-04-22T01:23:17.969Z info: 	Updated schedule: {"days":["monday","wednesday","friday","tuesday","thursday","saturday","sunday"],"flush_time":"21:24","flush_duration":10}
+2019-04-22T01:25:19.546Z info: 	Stopping scheduler
+2019-04-22T01:25:19.550Z info: 	Starting scheduler
+2019-04-22T01:25:19.575Z info: 	Valve control listening on port 3000
+2019-04-22T01:25:19.578Z error: 	Valve control not ready! {"errno":-2,"code":"ENOENT","syscall":"open","path":"/proc/cpuinfo"}
+2019-04-22T01:26:18.582Z info: 	Stopping scheduler
+2019-04-22T01:26:18.587Z info: 	Starting scheduler
+2019-04-22T01:26:18.623Z info: 	Valve control listening on port 3000
+2019-04-22T01:26:18.626Z error: 	Valve control not ready! {"errno":-2,"code":"ENOENT","syscall":"open","path":"/proc/cpuinfo"}
+2019-04-22T01:26:20.223Z info: 	Stopping scheduler
+2019-04-22T01:26:20.224Z info: 	Stopping scheduler
+2019-04-22T01:26:20.224Z info: 	Starting scheduler
+2019-04-22T01:26:20.225Z info: 	Updated schedule: {"days":["monday","wednesday","friday","tuesday","thursday","saturday","sunday"],"flush_time":"21:27","flush_duration":10}
+2019-04-22T01:27:03.234Z info: 	Running flush
+2019-04-22T01:28:58.110Z info: 	Stopping scheduler
+2019-04-22T01:28:58.114Z info: 	Starting scheduler
+2019-04-22T01:28:58.144Z info: 	Valve control listening on port 3000
+2019-04-22T01:28:58.147Z error: 	Valve control not ready! {"errno":-2,"code":"ENOENT","syscall":"open","path":"/proc/cpuinfo"}
+2019-04-22T01:29:10.603Z info: 	Stopping scheduler
+2019-04-22T01:29:10.604Z info: 	Stopping scheduler
+2019-04-22T01:29:10.605Z info: 	Starting scheduler
+2019-04-22T01:29:10.605Z info: 	Updated schedule: {"days":["monday","wednesday","friday","tuesday","thursday","saturday","sunday"],"flush_time":"21:30","flush_duration":10}
+2019-04-22T01:30:02.017Z info: 	Running flush
+2019-04-22T01:30:02.018Z error: 	Error opening valve: {}
+2019-04-22T01:30:12.018Z error: 	Error closing valve: {}
